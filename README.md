@@ -6,7 +6,7 @@ This repository documents my progression from core financial data pipelines to t
 
 ---
 
-## 🚀 Course Overview & Synopsis
+## -Course Overview & Synopsis-
 
 This hands-on curriculum bridges theory and modern quantitative engineering by deploying cutting-edge AI techniques to solve real-world financial problems. The course covers structural data analytics, asset pricing paradigms, machine learning classifications, and the state-of-the-art integration of Large Language Models (LLMs) and autonomous agents within financial decision-making architectures.
 
@@ -19,7 +19,7 @@ This hands-on curriculum bridges theory and modern quantitative engineering by d
 
 ---
 
-## 🛠️ Technology Stack & Frameworks
+## -Tech Exposure-
 
 * **Languages:** Python 3.x
 * **Data Science Ecosystem:** JupyterLab, Anaconda, NumPy, Pandas, Matplotlib, Scikit-Learn
@@ -27,11 +27,11 @@ This hands-on curriculum bridges theory and modern quantitative engineering by d
 
 ---
 
-## 📁 Repository Structure & Project Subcategories
+## -Repository Structure & Project Subcategories-
 
 The project deliverables are organized into core thematic modules representing the cumulative timeline of the curriculum.
 
-### 📦 [Module 1] Foundations & Financial Data Engineering
+### [Module 1] Foundations & Financial Data Engineering
 * **Week 1: Foundations for Financial Analytics**
   * *Focus:* Setting up the core Anaconda environment and writing native scripts using complex financial data structures.
   * *Deliverable:* Implementation of fundamental scripts analyzing financial variables and structural controls.
@@ -39,7 +39,7 @@ The project deliverables are organized into core thematic modules representing t
   * *Focus:* Vectorized numerical computations with NumPy, high-performance structured manipulation using Pandas DataFrames, and statistical chart generation.
   * *Deliverable:* Pipeline to extract, clean, filter, and visualize historical equity price series and structural returns.
 
-### 📉 [Module 2] Advanced Empirical Asset Pricing
+### [Module 2] Advanced Empirical Asset Pricing
 * **Week 3: Financial Regression Analysis**
   * *Focus:* Ordinary Least Squares (OLS) estimation, simple and multivariate linear regressions, and historical evaluation of market return frameworks.
   * *Deliverable:* Empirical regression model evaluating historical asset returns against macro market factors.
@@ -50,7 +50,7 @@ The project deliverables are organized into core thematic modules representing t
   * *Focus:* Implementing multi-factor equity risk pricing models including the Fama-French 3-Factor and Carhart 4-Factor frameworks.
   * *Deliverable:* Full-scale factor model implementation evaluating systematic risk and computing risk-adjusted alpha (Sharpe, Treynor, and Jensen's Alpha).
 
-### 🤖 [Module 3] Applied Machine Learning in Corporate Finance
+### [Module 3] Applied Machine Learning in Corporate Finance
 * **Week 6: Machine Learning for Credit Risk Modeling**
   * *Focus:* Supervised classification algorithms; model performance diagnostics including Confusion Matrices, Precision, Recall, and F1-Scores.
   * *Deliverable:* Predictive machine learning classifier (Logistic Regression, Decision Trees, Random Forests) estimating loan default and credit probabilities.
@@ -58,7 +58,7 @@ The project deliverables are organized into core thematic modules representing t
   * *Focus:* Transforming traditional governance problems into ML tasks, text/feature engineering for non-traditional data arrays, feature importance mapping, and evaluating algorithmic bias.
   * *Deliverable:* Predictive model for board director effectiveness paired with a comprehensive ethical bias analysis.
 
-### 🧠 [Module 4] Generative AI & Autonomous Financial Systems
+### [Module 4] Generative AI & Autonomous Financial Systems
 * **Week 8: Natural Language Processing & Financial Sentiment Analysis**
   * *Focus:* Introducing Transformer models and Generative AI to financial language processing.
   * *Deliverable:* Hugging Face sentiment extraction pipeline scoring financial news streams and parsing corporate earnings call transcripts.
@@ -71,7 +71,7 @@ The project deliverables are organized into core thematic modules representing t
 
 ---
 
-## 🏆 Comprehensive Final Project
+## -Comprehensive Final Project-
 The capstone project integrates the entire data-to-agent lifecycle. It combines complex data orchestration, asset modeling, and custom-engineered prompt/classification systems applied directly to a novel problem in financial engineering.
 * **Components Included:**
   1. **Project Proposal:** Detailed framework scoping the quantitative or generative problem.
